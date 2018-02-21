@@ -1,7 +1,7 @@
 # Catch of the Day
 
 
-![Catch of the Day](https://ashley.one/img/catch-of-the-day.png)
+![Catch of the Day](./docs/catch-of-the-day.png)
 
 ## Introduction
 
@@ -64,7 +64,7 @@ Authentication is handled in the Inventory component, which uses re-base and con
 
 ### More information
 
-For more create-react-app commands, see the create-react-app [README](https://github.com/ashdavis/catch-of-the-day/blob/master/create-react-app-readme.md).
+For more create-react-app commands, see the create-react-app [README](./docs/create-react-app-readme.md).
 
 
 ## Technology Used
